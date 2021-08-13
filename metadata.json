@@ -1,0 +1,1 @@
+{"clusterName":"mohit","clusterID":"df7826c8-d272-4495-878e-d1d1400e1ea6","infraID":"mohit-gq7bt","aws":{"region":"us-east-1","identifier":[{"kubernetes.io/cluster/mohit-gq7bt":"owned"},{"openshiftClusterID":"df7826c8-d272-4495-878e-d1d1400e1ea6"}],"clusterDomain":"mohit.aws-ocpcluster.click"}}

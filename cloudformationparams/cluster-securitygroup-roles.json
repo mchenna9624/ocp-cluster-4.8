@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "mohit-gq7bt" 
+  },
+  {
+    "ParameterKey": "VpcCidr", 
+    "ParameterValue": "10.0.0.0/16" 
+  },
+  {
+    "ParameterKey": "PrivateSubnets", 
+    "ParameterValue": "subnet-07b42519cd8873ebf" 
+  },
+  {
+    "ParameterKey": "VpcId", 
+    "ParameterValue": "vpc-01553b7db5e5ccba5" 
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "mohit-gq7bt" 
+  },
+  {
+    "ParameterKey": "RhcosAmi", 
+    "ParameterValue": "ami-05ed2cc6e70392ff9" 
+  },
+  {
+    "ParameterKey": "Subnet", 
+    "ParameterValue": "subnet-07b42519cd8873ebf" 
+  },
+  {
+    "ParameterKey": "WorkerSecurityGroupId", 
+    "ParameterValue": "sg-0812c37d91a2c951b" 
+  },
+  {
+    "ParameterKey": "IgnitionLocation", 
+    "ParameterValue": "https://api-int.mohit.aws-ocpcluster.click:22623/config/worker" 
+  },
+  {
+    "ParameterKey": "CertificateAuthorities", 
+    "ParameterValue": "data:text/plain;charset=utf-8;base64,LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURFRENDQWZpZ0F3SUJBZ0lJVDFjbk41TlU3dXN3RFFZSktvWklodmNOQVFFTEJRQXdKakVTTUJBR0ExVUUKQ3hNSmIzQmxibk5vYVdaME1SQXdEZ1lEVlFRREV3ZHliMjkwTFdOaE1CNFhEVEl4TURneE16QXdNVEUxT1ZvWApEVE14TURneE1UQXdNVEUxT1Zvd0pqRVNNQkFHQTFVRUN4TUpiM0JsYm5Ob2FXWjBNUkF3RGdZRFZRUURFd2R5CmIyOTBMV05oTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUEwV3BoYTJ4RExDVUEKemNpN0VCRmt0RFpRK0xzZVJ1T3lvQVcrdmVsODFuVjEzR251TUlYU3BZK2ZrRHJtMklXeTI0T2tRc0VyRzFESQpRMWdDanNaOWlFTWtzZW04L2EyK3FOS3I5dHlVQXVpVGdhQ2V6b1ZrQzQvWmxrUGJTZ2hXTC9NUWhCdHhHclpZCm9FNTZBY2t3dThTSkJONjZhMERYdjBsaEVVREF5QVBsbkdKVFBZZ0xIRmFFYTlpQWtXTCtsWi9FUWczbHM3ZkoKUFlIQnhaZVVFa1QvZ1hBTzEyV09KNlFXSlBBeExRKzNGQkJJZjJoSEl5SkxrdDMrVktvbXM4Wkl2RGVhd3RMZwpUaW9uWjRxemRVY0Y4bjc2SjRHRFowcUtXQXY3YW16U2RPR2p3a29VNlZLbUR4ZFZuN2dYeEovUEJZQzNPdXQrCjFOZFV3SkFCK1FJREFRQUJvMEl3UURBT0JnTlZIUThCQWY4RUJBTUNBcVF3RHdZRFZSMFRBUUgvQkFVd0F3RUIKL3pBZEJnTlZIUTRFRmdRVUVWUVZjRDc1VUI5czBDY3RickdGNkFJbWlGRXdEUVlKS29aSWh2Y05BUUVMQlFBRApnZ0VCQUJQWDBQODZSS2MyQVE2TU40d3hoaXNDenljZU9ZQmgydEZIa3RzWUR6eHBzcFkrYTNvbDVSYmNidjNTCmY4cVhtZzBtUGNjcUtpeFBFVENUZDZ6Z21uR2FlNkxZa1Ewb3llRk96NmYvSWdoZjZiQ1B1ZzB4ZE9adFhoQ2IKbUlUL3J1T2xUcTQzY3R0MEJMMS9HOEQ1QWVZRTg0UkZ0UVZHQ1JhbHBmRFBpUm5pbDZtaVozZnRtbDRIRHIwUgpONzZEeEYwL3daL1B1S1FjaTA4Yys2dVJyRkVXdDZFYmNnUVZGUHVjclpHS1JSdVowcHFYaG0vWDBRSGhKVTJuClEzbjdQdHdVdEc4WVdjdnFMTzdDRm4wYjdaYlU1WWViT1dOc1d1QVd3a3pzUW1OK2d5OU90b0swUHZBakFsUWwKMkpNNnYzcys0eXB0Y3E3NE5nc21HTkZyMFRJPQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==" 
+  },
+  {
+    "ParameterKey": "WorkerInstanceProfileName", 
+    "ParameterValue": "cluster-securitygroup-roles-WorkerInstanceProfile-T2G9DGTOB97A" 
+  },
+  {
+    "ParameterKey": "WorkerInstanceType", 
+    "ParameterValue": "m4.2xlarge" 
+  }
+]

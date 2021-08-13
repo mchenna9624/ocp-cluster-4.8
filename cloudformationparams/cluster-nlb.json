@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "ClusterName", 
+    "ParameterValue": "mohit" 
+  },
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "mohit-gq7bt" 
+  },
+  {
+    "ParameterKey": "HostedZoneId", 
+    "ParameterValue": "Z05921823DC9U59JSXNSE" 
+  },
+  {
+    "ParameterKey": "HostedZoneName", 
+    "ParameterValue": "aws-ocpcluster.click" 
+  },
+  {
+    "ParameterKey": "PublicSubnets", 
+    "ParameterValue": "subnet-06e8d8be56c616d62" 
+  },
+  {
+    "ParameterKey": "PrivateSubnets", 
+    "ParameterValue": "subnet-07b42519cd8873ebf" 
+  },
+  {
+    "ParameterKey": "VpcId", 
+    "ParameterValue": "vpc-01553b7db5e5ccba5" 
+  }
+]

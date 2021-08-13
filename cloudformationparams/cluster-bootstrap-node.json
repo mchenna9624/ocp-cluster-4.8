@@ -1,0 +1,50 @@
+[
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "mohit-gq7bt" 
+  },
+  {
+    "ParameterKey": "RhcosAmi", 
+    "ParameterValue": "ami-05ed2cc6e70392ff9" 
+  },
+  {
+    "ParameterKey": "AllowedBootstrapSshCidr", 
+    "ParameterValue": "0.0.0.0/0" 
+  },
+  {
+    "ParameterKey": "PublicSubnet", 
+    "ParameterValue": "subnet-06e8d8be56c616d62" 
+  },
+  {
+    "ParameterKey": "MasterSecurityGroupId", 
+    "ParameterValue": "sg-0a0bdbb29e4314c58" 
+  },
+  {
+    "ParameterKey": "VpcId", 
+    "ParameterValue": "vpc-01553b7db5e5ccba5" 
+  },
+  {
+    "ParameterKey": "BootstrapIgnitionLocation", 
+    "ParameterValue": "s3://mohit-infra/bootstrap.ign" 
+  },
+  {
+    "ParameterKey": "AutoRegisterELB", 
+    "ParameterValue": "yes" 
+  },
+  {
+    "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
+    "ParameterValue": "arn:aws:lambda:us-east-1:354803574909:function:cluster-nlb-RegisterNlbIpTargets-mEZpXk8xzGQx" 
+  },
+  {
+    "ParameterKey": "ExternalApiTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:us-east-1:354803574909:targetgroup/clust-Exter-S54HUFJMEIY8/6e49c1987369865a" 
+  },
+  {
+    "ParameterKey": "InternalApiTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:us-east-1:354803574909:targetgroup/clust-Inter-1NI3LRXDXVMHJ/e554f0022bf112ae" 
+  },
+  {
+    "ParameterKey": "InternalServiceTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:us-east-1:354803574909:targetgroup/clust-Inter-3FPK63VLQXVQ/c50d87b065b194eb" 
+  }
+]
